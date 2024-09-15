@@ -36,4 +36,7 @@ yarn-error.log*
 *.tsbuildinfo
 next-env.d.ts
 
+# Theme Files
 /_theme_files/
+_theme_files/
+_theme_files
